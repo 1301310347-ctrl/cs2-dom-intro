@@ -82,8 +82,9 @@ After 50 clicks, the user reaches level 3 and each click is now worth 5 clicks.
 1. Add an ```else if``` block under your if statement to check when ```clicks``` is equal to 50
 2. Again, use ```alert()``` to display a pop-up, update level display h1, and set ```clickValue``` to ```5```
 
-## Part 5: Make it look better
+## Part 4: Make it look better
 I have already setup a ```styles.css``` file with selectors for the different elements.
 - Set a ```background-color```
 - Set ```font-family```, ```color```, and ```font-size```
+- Adjust the size (```width```) of the image
 - Center the elements

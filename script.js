@@ -28,7 +28,7 @@ if (clicks == 10) {
     levelDisplay.innerText = "Level: Rookie";
     clickValue = 2;
 }
-else if (click == 50) {
+if (clicks == 50) {
     alert("Yes, you reach the next level!");
     clickValue = 5;
 }

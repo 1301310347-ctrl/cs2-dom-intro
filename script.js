@@ -29,7 +29,7 @@ if (clicks == 10) {
     clickValue = 2;
 }
 if (clicks == 50) {
-    alert("Yes, you reach the next level!");
+    alert("Yes, you reach the next level!!!");
     clickValue = 5;
 }
 

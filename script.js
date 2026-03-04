@@ -30,6 +30,7 @@ if (clicks == 10) {
 }
 if (clicks == 50) {
     alert("Yes, you reach the next level!!!");
+    levelDisplay.innerText = "Level: Gooner";
     clickValue = 5;
 }
 
